@@ -1,2 +1,2 @@
 My first readme
-# alx-zero_day
+this readme updated from github.com
